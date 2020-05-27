@@ -1,0 +1,32 @@
+Initialize engine version: 5.6.3p1 (9c92e827232b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 570 Series (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     8137 MB
+    Driver:   26.20.13031.5006
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\phili\OneDrive\Control,DSP,etc\SemiQuadControl\Builds\BalancedAeropendulumControl_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\phili\OneDrive\Control,DSP,etc\SemiQuadControl\Builds\BalancedAeropendulumControl_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\phili\OneDrive\Control,DSP,etc\SemiQuadControl\Builds\BalancedAeropendulumControl_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\phili\OneDrive\Control,DSP,etc\SemiQuadControl\Builds\BalancedAeropendulumControl_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\phili\OneDrive\Control,DSP,etc\SemiQuadControl\Builds\BalancedAeropendulumControl_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\phili\OneDrive\Control,DSP,etc\SemiQuadControl\Builds\BalancedAeropendulumControl_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\phili\OneDrive\Control,DSP,etc\SemiQuadControl\Builds\BalancedAeropendulumControl_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\phili\OneDrive\Control,DSP,etc\SemiQuadControl\Builds\BalancedAeropendulumControl_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.137 seconds
+Platform assembly: C:\Users\phili\OneDrive\Control,DSP,etc\SemiQuadControl\Builds\BalancedAeropendulumControl_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\phili\OneDrive\Control,DSP,etc\SemiQuadControl\Builds\BalancedAeropendulumControl_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.779500 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 2308 -> priority: 1 
+  Thread -> id: 219c -> priority: 1 
+  Thread -> id: 43e8 -> priority: 1 
+  Thread -> id: 47d8 -> priority: 1 
+  Thread -> id: 358c -> priority: 1 
+  Thread -> id: 5300 -> priority: 1 
